@@ -1,6 +1,6 @@
 ## About me
 
-# Python Developer 🐍
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leegosx&label=Profile%20views&color=0e75b6&style=plastic" alt="leegosx_pv" /> </p>
 
