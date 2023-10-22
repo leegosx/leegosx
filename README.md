@@ -1,6 +1,6 @@
-# Hello, I'm Dmytro! 👋
+## About me
 
-## Python Developer 🐍
+# Python Developer 🐍
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leegosx&label=Profile%20views&color=0e75b6&style=plastic" alt="leegosx_pv" /> </p>
 
