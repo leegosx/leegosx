@@ -4,7 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leegosx&label=Profile%20views&color=0e75b6&style=plastic" alt="leegosx_pv" /> </p>
 
-With 1.5 years of programming experience, I'm passionate about Python development. Automating routine tasks has always been a thrill for me, and I'm eager to leverage my skills to enhance processes and boost productivity.
+🐍 In a year and a half of using Python, I automated a series of routine tasks, having fallen in love with the simplicity and flexibility of this language.
+
+🔍 For me, code is a tool for work optimization, allowing me to focus on more important tasks.
+
+🚀 Programming is my passion; my mission is to find effective solutions.
+
+💡 Always ready for new projects and collaboration.
 
 ---
 
