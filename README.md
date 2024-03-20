@@ -10,4 +10,4 @@
 
 💼 If you'd like to collaborate, feel free to reach out to me at [email](mailto:klimenko.dmitris@gmail.com)
 
-📄 [Check out my resume](dmytrok-dev.tiiny.site)
+📄 [Check out my resume](https://dmytrok-dev.tiiny.site)
